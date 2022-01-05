@@ -3,7 +3,7 @@ package com.classandobjectinopps;
 import java.util.Date;
 import java.util.Scanner;
 
-public class book {
+public class Book {
 	
 	//following are the instance variables of Book(Attributes)
 	String isbnNo;
